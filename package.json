@@ -1,25 +1,15 @@
 {
-  "name": "package.json",
+  "name": "__tests__",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Player.test.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sambollano/Jest-Another-RPG.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sambollano/Jest-Another-RPG/issues"
-  },
-  "homepage": "https://github.com/sambollano/Jest-Another-RPG#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  },
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "jest": "^26.6.3"
   }
 }
