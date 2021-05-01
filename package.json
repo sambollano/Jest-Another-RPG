@@ -1,10 +1,11 @@
 {
-  "name": "__tests__",
+  "name": "jest-rpg",
   "version": "1.0.0",
   "description": "",
   "main": "Player.test.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
